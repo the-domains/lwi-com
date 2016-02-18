@@ -1,14 +1,29 @@
+name: LWI.com
+favicon: null
 layout_spectrum: 0.9723404
 typography_spectrum: 0.6829787
+title: Graphic Design and Production
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  lightness: 0.6351706
-  brandStrength: 0.8668367
-  saturation: 0.7827466
-  rhythmicContrast: 0.8083763
   brandColors:
     - '#FFFFFF'
     - '#1F1F1F'
     - '#CFDF4B'
     - '#DD5D3B'
     - '#65C4A3'
-name: LWI.com
+  brandStrength: 0.8668367
+  lightness: 0.6351706
+  saturation: 0.7827466
+  rhythmicContrast: 0.8083763
+purpose: []
