@@ -4,11 +4,11 @@
         <description><![CDATA[Graphic Design and Production]]></description>
         <link>https://thegrid.ai/lwi-com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 19 Feb 2016 03:25:31 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Feb 2016 03:26:54 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/lwi-com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Welcome banner]]></title>
-            <description><![CDATA[<article><h1>Welcome banner</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/01eb22ac3a9454c5dec802c241e85cb66d9ace20.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Welcome banner</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b3b0f498064282232450862b3cdbbf4ca43eed1e.jpg"></article>]]></description>
             <link>https://thegrid.ai/lwi-com/welcome-banner/index.html</link>
             <guid isPermaLink="false">5a0b8527-47ad-404a-a46c-e9241852fc57</guid>
             <pubDate>Fri, 19 Feb 2016 03:25:22 GMT</pubDate>
@@ -26,13 +26,6 @@
             <link>https://thegrid.ai/lwi-com/1433371d-07f7-4cf3-a7aa-119a26c1b014/index.html</link>
             <guid isPermaLink="false">1433371d-07f7-4cf3-a7aa-119a26c1b014</guid>
             <pubDate>Fri, 19 Feb 2016 01:09:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/732a260c-d225-491e-8a8b-34fd623a6732.jpg">]]></description>
-            <link>https://thegrid.ai/lwi-com/7ad6ed07-a53b-48e3-99ac-84a929d456f6/index.html</link>
-            <guid isPermaLink="false">7ad6ed07-a53b-48e3-99ac-84a929d456f6</guid>
-            <pubDate>Fri, 19 Feb 2016 01:05:28 GMT</pubDate>
         </item>
     </channel>
 </rss>
